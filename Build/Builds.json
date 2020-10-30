@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "OneWeek",
+"productName": "GuildMaster",
 "productVersion": "0.1",
 "dataUrl": "Builds.data.unityweb",
 "wasmCodeUrl": "Builds.wasm.code.unityweb",
